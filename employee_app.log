@@ -1,0 +1,28 @@
+2026-01-14 11:19:28,776 | INFO | Employee salary application started
+2026-01-14 11:19:32,529 | INFO | Employee salary application finished
+2026-01-14 11:19:43,490 | INFO | Employee salary application started
+2026-01-14 11:19:56,868 | INFO | Calculating bonus for designation: coder
+2026-01-14 11:19:56,868 | INFO | Bonus calculated: 2000.00
+2026-01-14 11:19:56,869 | INFO | Calculating leave deduction
+2026-01-14 11:19:56,869 | INFO | Leaves within paid limit, no deduction
+2026-01-14 11:19:56,869 | INFO | Starting final salary calculation
+2026-01-14 11:19:56,869 | INFO | Calculating bonus for designation: coder
+2026-01-14 11:19:56,870 | INFO | Bonus calculated: 2000.00
+2026-01-14 11:19:56,870 | INFO | Calculating leave deduction
+2026-01-14 11:19:56,870 | INFO | Leaves within paid limit, no deduction
+2026-01-14 11:19:56,870 | INFO | Final salary calculated: 22000.00
+2026-01-14 11:19:56,871 | INFO | Employee report generated successfully
+2026-01-14 11:19:56,871 | INFO | Employee salary application finished
+2026-01-14 11:20:05,223 | INFO | Employee salary application started
+2026-01-14 11:20:17,837 | INFO | Calculating bonus for designation: coder
+2026-01-14 11:20:17,837 | INFO | Bonus calculated: 3100.00
+2026-01-14 11:20:17,837 | INFO | Calculating leave deduction
+2026-01-14 11:20:17,837 | INFO | Leave deduction calculated: 6820.00 for 6 extra leaves
+2026-01-14 11:20:17,837 | INFO | Starting final salary calculation
+2026-01-14 11:20:17,837 | INFO | Calculating bonus for designation: coder
+2026-01-14 11:20:17,837 | INFO | Bonus calculated: 3100.00
+2026-01-14 11:20:17,837 | INFO | Calculating leave deduction
+2026-01-14 11:20:17,837 | INFO | Leave deduction calculated: 6820.00 for 6 extra leaves
+2026-01-14 11:20:17,837 | INFO | Final salary calculated: 27280.00
+2026-01-14 11:20:17,839 | INFO | Employee report generated successfully
+2026-01-14 11:20:17,839 | INFO | Employee salary application finished
